@@ -1,0 +1,9 @@
+E:\Code\vs\DepartmentTraversal\DepartmentTraversal\bin\Debug\netstandard2.0\DepartmentTraversal.deps.json
+E:\Code\vs\DepartmentTraversal\DepartmentTraversal\bin\Debug\netstandard2.0\DepartmentTraversal.dll
+E:\Code\vs\DepartmentTraversal\DepartmentTraversal\bin\Debug\netstandard2.0\DepartmentTraversal.pdb
+E:\Code\vs\DepartmentTraversal\DepartmentTraversal\obj\Debug\netstandard2.0\DepartmentTraversal.csprojAssemblyReference.cache
+E:\Code\vs\DepartmentTraversal\DepartmentTraversal\obj\Debug\netstandard2.0\DepartmentTraversal.AssemblyInfoInputs.cache
+E:\Code\vs\DepartmentTraversal\DepartmentTraversal\obj\Debug\netstandard2.0\DepartmentTraversal.AssemblyInfo.cs
+E:\Code\vs\DepartmentTraversal\DepartmentTraversal\obj\Debug\netstandard2.0\DepartmentTraversal.csproj.CoreCompileInputs.cache
+E:\Code\vs\DepartmentTraversal\DepartmentTraversal\obj\Debug\netstandard2.0\DepartmentTraversal.dll
+E:\Code\vs\DepartmentTraversal\DepartmentTraversal\obj\Debug\netstandard2.0\DepartmentTraversal.pdb
